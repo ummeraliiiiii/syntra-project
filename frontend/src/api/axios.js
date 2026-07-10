@@ -1,12 +1,13 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-  baseURL: 'https://backend-lguc.onrender.com',
+  baseURL: "https://backend-lguc.onrender.com/api",
   headers: {
-    'Content-Type': 'application/json',
+    "Content-Type": "application/json",
   },
 });
 
+export default api;
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem('access_token');
 
