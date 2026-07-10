@@ -34,6 +34,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
     "http://localhost:5174",
     "http://127.0.0.1:5174",
+    "https://syntra-project.vercel.app",
 ]
 
 # During local development allow the dev server origin (safe for dev only)
