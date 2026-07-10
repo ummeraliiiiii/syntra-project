@@ -1,596 +1,4 @@
-[
-{
-  "model": "admin.logentry",
-  "pk": 1,
-  "fields": {
-    "action_time": "2026-07-07T07:32:25.475Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "1",
-    "object_repr": "RolePermission object (1)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 2,
-  "fields": {
-    "action_time": "2026-07-07T07:32:39.137Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "2",
-    "object_repr": "RolePermission object (2)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 3,
-  "fields": {
-    "action_time": "2026-07-07T07:32:46.156Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "3",
-    "object_repr": "RolePermission object (3)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 4,
-  "fields": {
-    "action_time": "2026-07-07T07:32:51.916Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "4",
-    "object_repr": "RolePermission object (4)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 5,
-  "fields": {
-    "action_time": "2026-07-07T07:33:50.729Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "5",
-    "object_repr": "RolePermission object (5)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 6,
-  "fields": {
-    "action_time": "2026-07-07T07:34:02.459Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "6",
-    "object_repr": "RolePermission object (6)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 7,
-  "fields": {
-    "action_time": "2026-07-07T07:34:11.475Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "7",
-    "object_repr": "RolePermission object (7)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 8,
-  "fields": {
-    "action_time": "2026-07-07T07:34:21.612Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "8",
-    "object_repr": "RolePermission object (8)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 9,
-  "fields": {
-    "action_time": "2026-07-07T07:34:38.463Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 12,
-    "object_id": "9",
-    "object_repr": "RolePermission object (9)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 10,
-  "fields": {
-    "action_time": "2026-07-07T07:38:16.532Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 13,
-    "object_id": "cb9b6e7f-057a-4f2f-b605-ab21e16da86c",
-    "object_repr": "hi@gmail.com - CREATE",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 11,
-  "fields": {
-    "action_time": "2026-07-07T08:03:40.448Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 10,
-    "object_id": "3d8efe82-4bac-48dc-a52e-767146fb2977",
-    "object_repr": "code",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 12,
-  "fields": {
-    "action_time": "2026-07-07T08:04:24.761Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 11,
-    "object_id": "0eeceb0c-e319-4f41-951c-294112456638",
-    "object_repr": "Super Admin",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 13,
-  "fields": {
-    "action_time": "2026-07-07T09:48:50.760Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 8,
-    "object_id": "2a9a1082-20f5-431c-92bf-58aace8e1e13",
-    "object_repr": "ummer@gmail.com",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 14,
-  "fields": {
-    "action_time": "2026-07-07T09:49:37.636Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 8,
-    "object_id": "2a9a1082-20f5-431c-92bf-58aace8e1e13",
-    "object_repr": "ummer@gmail.com",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Is staff\", \"Superuser status\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 15,
-  "fields": {
-    "action_time": "2026-07-07T11:10:19.977Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 8,
-    "object_id": "2ae85f8d-ac25-490c-9097-edb7044183cf",
-    "object_repr": "ummerali@gmail.com",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 16,
-  "fields": {
-    "action_time": "2026-07-07T11:11:51.905Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 8,
-    "object_id": "2ae85f8d-ac25-490c-9097-edb7044183cf",
-    "object_repr": "ummerali@gmail.com",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Is staff\", \"Superuser status\", \"User permissions\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 17,
-  "fields": {
-    "action_time": "2026-07-07T11:15:21.258Z",
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "content_type": 8,
-    "object_id": "2a9a1082-20f5-431c-92bf-58aace8e1e13",
-    "object_repr": "ummer@gmail.com",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Is active\"]}}]"
-  }
-},
-{
-  "model": "sessions.session",
-  "pk": "gwf5r1fiq5yfvwu6gmzntgj6movk7ckl",
-  "fields": {
-    "session_data": ".eJxVzDsOwjAQRdG9uMaWMx7_KOlZQ2SPxySAYimfCrF3iJQC6nfPe4k-bevQbwvP_VjEWUTOHRA4WWr0ErkmmRMWqYG9gajBZCtOvywnevC023JP060patM6j1ntiTrWRV1b4eflaP8OhrQMX-01OQsUqNMcMJlQKhoLHgJh4EIeXejAI5paPdSqmQ1Z0hodWUdRvD_9B0C9:1wh08A:InTiw38kra0yzGoftcfb_s0bjfVfL0IV0U6pz_P4e1Y",
-    "expire_date": "2026-07-21T07:22:10.602Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 1,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "e6f64fadf25141b2a897aa5221c3da8d",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxMTY4NywiaWF0IjoxNzgzNDE5Njg3LCJqdGkiOiJlNmY2NGZhZGYyNTE0MWIyYTg5N2FhNTIyMWMzZGE4ZCIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.CHhy2iyyP_NXpb7Y3GA8mrkvqFZUiyADJ03Kg-hnsJs",
-    "created_at": "2026-07-07T10:21:27.252Z",
-    "expires_at": "2026-08-06T10:21:27Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 2,
-  "fields": {
-    "user": "2a9a1082-20f5-431c-92bf-58aace8e1e13",
-    "jti": "5926f6aa5b904b50a4a99ca67db4a9ef",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxMTg4OCwiaWF0IjoxNzgzNDE5ODg4LCJqdGkiOiI1OTI2ZjZhYTViOTA0YjUwYTRhOTljYTY3ZGI0YTllZiIsInVzZXJfaWQiOiIyYTlhMTA4Mi0yMGY1LTQzMWMtOTJiZi01OGFhY2U4ZTFlMTMifQ.Ag9heW98FNV7AMh_QFLBuaf00t5lA8_Rz-RVJIoGQzw",
-    "created_at": "2026-07-07T10:24:48.329Z",
-    "expires_at": "2026-08-06T10:24:48Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 3,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "a5d1dd5f1fa34088881b5951686c3462",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxMjA1MywiaWF0IjoxNzgzNDIwMDUzLCJqdGkiOiJhNWQxZGQ1ZjFmYTM0MDg4ODgxYjU5NTE2ODZjMzQ2MiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.-UCh2U2ZHy3V3FtyMn6OQ0uzjVf4_rjOE3YlsQGRGig",
-    "created_at": "2026-07-07T10:27:33.412Z",
-    "expires_at": "2026-08-06T10:27:33Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 4,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "70113f94b7d9407d859678e933d5664c",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxMzczNywiaWF0IjoxNzgzNDIxNzM3LCJqdGkiOiI3MDExM2Y5NGI3ZDk0MDdkODU5Njc4ZTkzM2Q1NjY0YyIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.OYQv25RhdAKU-BDA6ztuK_L6HGVizpuiDRqAOoTSIhI",
-    "created_at": "2026-07-07T10:55:37.350Z",
-    "expires_at": "2026-08-06T10:55:37Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 5,
-  "fields": {
-    "user": "2ae85f8d-ac25-490c-9097-edb7044183cf",
-    "jti": "ce6a0494db0149738d467578328140b4",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxNDc4OCwiaWF0IjoxNzgzNDIyNzg4LCJqdGkiOiJjZTZhMDQ5NGRiMDE0OTczOGQ0Njc1NzgzMjgxNDBiNCIsInVzZXJfaWQiOiIyYWU4NWY4ZC1hYzI1LTQ5MGMtOTA5Ny1lZGI3MDQ0MTgzY2YifQ._e1vFnPCY94AajH2gtNAzDo0HtLBzwJa2ztDbuii5eM",
-    "created_at": "2026-07-07T11:13:08.088Z",
-    "expires_at": "2026-08-06T11:13:08Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 6,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "39d57eaecbba49dcb262473e4bada296",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxNjM4MCwiaWF0IjoxNzgzNDI0MzgwLCJqdGkiOiIzOWQ1N2VhZWNiYmE0OWRjYjI2MjQ3M2U0YmFkYTI5NiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.Pa16G6T6OpW_LsfyGNoUqy2kdxxqT5uu9_XKMdb9eQc",
-    "created_at": "2026-07-07T11:39:40.677Z",
-    "expires_at": "2026-08-06T11:39:40Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 7,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "7303ac7124bc4a82a0a7e1eb9070dd09",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjAxNjk5NSwiaWF0IjoxNzgzNDI0OTk1LCJqdGkiOiI3MzAzYWM3MTI0YmM0YTgyYTBhN2UxZWI5MDcwZGQwOSIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.37WDkfGR8VyFLX44btq4iUhT3ppUCl8OCGOtbH9uYhQ",
-    "created_at": "2026-07-07T11:49:55.731Z",
-    "expires_at": "2026-08-06T11:49:55Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 8,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "18af797583e2435387c1002369e1d232",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4MzMzOSwiaWF0IjoxNzgzNDkxMzM5LCJqdGkiOiIxOGFmNzk3NTgzZTI0MzUzODdjMTAwMjM2OWUxZDIzMiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.ZiwxPsCCTKvuuUI4d0tVhgdrrO92TuRl8i41rDHyUUc",
-    "created_at": "2026-07-08T06:15:39.409Z",
-    "expires_at": "2026-08-07T06:15:39Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 9,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "01606b6c5b604a1da6bfe32691b7d12b",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4NDA0MCwiaWF0IjoxNzgzNDkyMDQwLCJqdGkiOiIwMTYwNmI2YzViNjA0YTFkYTZiZmUzMjY5MWI3ZDEyYiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.tQudH1DzJSudZEn-u5qnPRVIURmhHkT0B0GPHCHecns",
-    "created_at": "2026-07-08T06:27:20.462Z",
-    "expires_at": "2026-08-07T06:27:20Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 10,
-  "fields": {
-    "user": "3d0ab68b-fc53-4d4d-b7ba-ad7b6de775bd",
-    "jti": "22c2d029ae2b4a9d86ae66437309ec80",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4NTgwNywiaWF0IjoxNzgzNDkzODA3LCJqdGkiOiIyMmMyZDAyOWFlMmI0YTlkODZhZTY2NDM3MzA5ZWM4MCIsInVzZXJfaWQiOiIzZDBhYjY4Yi1mYzUzLTRkNGQtYjdiYS1hZDdiNmRlNzc1YmQifQ.XW0GbpYuRJQtoFrjPPIpuXByj_bVbr2e4AWsj9dmIRU",
-    "created_at": "2026-07-08T06:56:47.652Z",
-    "expires_at": "2026-08-07T06:56:47Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 11,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "8bbe95785f4b4194b6acb65f934d4f01",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4NTg0MSwiaWF0IjoxNzgzNDkzODQxLCJqdGkiOiI4YmJlOTU3ODVmNGI0MTk0YjZhY2I2NWY5MzRkNGYwMSIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.rmSGVplv2zOCm6SUPPCMXzfLgQwXbG_0m82dt9R3HMU",
-    "created_at": "2026-07-08T06:57:21.808Z",
-    "expires_at": "2026-08-07T06:57:21Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 12,
-  "fields": {
-    "user": "3d0ab68b-fc53-4d4d-b7ba-ad7b6de775bd",
-    "jti": "490791f43afe479cbacf9eef4b76cbd2",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4NjQ4OSwiaWF0IjoxNzgzNDk0NDg5LCJqdGkiOiI0OTA3OTFmNDNhZmU0NzljYmFjZjllZWY0Yjc2Y2JkMiIsInVzZXJfaWQiOiIzZDBhYjY4Yi1mYzUzLTRkNGQtYjdiYS1hZDdiNmRlNzc1YmQifQ.DGF0N0V4YDJuDHVLfVPD7f9iEyIsk-zXNGoWApw-SdA",
-    "created_at": "2026-07-08T07:08:09.765Z",
-    "expires_at": "2026-08-07T07:08:09Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 13,
-  "fields": {
-    "user": "3d0ab68b-fc53-4d4d-b7ba-ad7b6de775bd",
-    "jti": "a1fc1ac371764701a65e10afae9b60ea",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4NjcyOSwiaWF0IjoxNzgzNDk0NzI5LCJqdGkiOiJhMWZjMWFjMzcxNzY0NzAxYTY1ZTEwYWZhZTliNjBlYSIsInVzZXJfaWQiOiIzZDBhYjY4Yi1mYzUzLTRkNGQtYjdiYS1hZDdiNmRlNzc1YmQifQ.brkCyq4cEbufrc9tXPAz3R8By__0Diqdu5ACWDIFVWQ",
-    "created_at": "2026-07-08T07:12:09.769Z",
-    "expires_at": "2026-08-07T07:12:09Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 14,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "a9604cadf4aa4c3e9a3f342042d5a4a6",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4NzU0MSwiaWF0IjoxNzgzNDk1NTQxLCJqdGkiOiJhOTYwNGNhZGY0YWE0YzNlOWEzZjM0MjA0MmQ1YTRhNiIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.N6jPWNmnb4WwhRG0a1v5GuHs4Fg9hOX6wkWJNQe_eDQ",
-    "created_at": "2026-07-08T07:25:41.938Z",
-    "expires_at": "2026-08-07T07:25:41Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 15,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "d932e290209d44f5ac37a7e07cc54235",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4Nzc2MCwiaWF0IjoxNzgzNDk1NzYwLCJqdGkiOiJkOTMyZTI5MDIwOWQ0NGY1YWMzN2E3ZTA3Y2M1NDIzNSIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.a-Gy6XumhkDE6wZHVgoerbCvaKShhUhRYIsJzpYxt4o",
-    "created_at": "2026-07-08T07:29:20.444Z",
-    "expires_at": "2026-08-07T07:29:20Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 16,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "fe3f96e0d9034555a551c200143f1e9c",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4ODE3NSwiaWF0IjoxNzgzNDk2MTc1LCJqdGkiOiJmZTNmOTZlMGQ5MDM0NTU1YTU1MWMyMDAxNDNmMWU5YyIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.L8MLT4US0AL3BiqCXpRlLGPSxSLLxtXDJNoVvFktDZE",
-    "created_at": "2026-07-08T07:36:15.772Z",
-    "expires_at": "2026-08-07T07:36:15Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 17,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "77b2476357ba4a5490c15ce0ec208d90",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4ODc3MywiaWF0IjoxNzgzNDk2NzczLCJqdGkiOiI3N2IyNDc2MzU3YmE0YTU0OTBjMTVjZTBlYzIwOGQ5MCIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.DVAG0RSWAL6veU7fAfS9-rIhr_g4gc8i03DCwnD4weA",
-    "created_at": "2026-07-08T07:46:13.719Z",
-    "expires_at": "2026-08-07T07:46:13Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 18,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "d7c049f8f63d4f0ab4b674dc1291fdc2",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA4OTIyMCwiaWF0IjoxNzgzNDk3MjIwLCJqdGkiOiJkN2MwNDlmOGY2M2Q0ZjBhYjRiNjc0ZGMxMjkxZmRjMiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.QsW_Ykipy4oRdpxTsuYy6N-GBfUZ_TjPcl0VA2BUuDg",
-    "created_at": "2026-07-08T07:53:40.003Z",
-    "expires_at": "2026-08-07T07:53:40Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 19,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "767642ab8c774c218c0beb99804b4999",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA5MDUyNSwiaWF0IjoxNzgzNDk4NTI1LCJqdGkiOiI3Njc2NDJhYjhjNzc0YzIxOGMwYmViOTk4MDRiNDk5OSIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.Z0S7ZgHXnRFBSTDNeYERMonfWAPqkZ_mucOSXREnu-4",
-    "created_at": "2026-07-08T08:15:25.197Z",
-    "expires_at": "2026-08-07T08:15:25Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 20,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "086c5c69ccea470ca4a9a2a3f72123c6",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA5MDc3OSwiaWF0IjoxNzgzNDk4Nzc5LCJqdGkiOiIwODZjNWM2OWNjZWE0NzBjYTRhOWEyYTNmNzIxMjNjNiIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.cL6Cyo52zjQ1gQb-dZEiUvDf0GEA--Th7TBtdK9h9GE",
-    "created_at": "2026-07-08T08:19:39.827Z",
-    "expires_at": "2026-08-07T08:19:39Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 21,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "79108af494744aa0822cd544c5fd8dd5",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjA5ODk5NiwiaWF0IjoxNzgzNTA2OTk2LCJqdGkiOiI3OTEwOGFmNDk0NzQ0YWEwODIyY2Q1NDRjNWZkOGRkNSIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.jmWkL04cbr1UYmTMwubd-6GwLx4KRrHOQBPKlfFw6ok",
-    "created_at": "2026-07-08T10:36:36.790Z",
-    "expires_at": "2026-08-07T10:36:36Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 22,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "1b50914ee24c462c988953e37f8f12ad",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjEwMDIyOSwiaWF0IjoxNzgzNTA4MjI5LCJqdGkiOiIxYjUwOTE0ZWUyNGM0NjJjOTg4OTUzZTM3ZjhmMTJhZCIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.RUFNfmpZXiyLtBsYDY-uS9-A0lRMQ79b1X2Doun2Wfs",
-    "created_at": "2026-07-08T10:57:09.431Z",
-    "expires_at": "2026-08-07T10:57:09Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 23,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "b6a9608289904a4e8b4dc0ff3ca5b22f",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjEwMzA5OCwiaWF0IjoxNzgzNTExMDk4LCJqdGkiOiJiNmE5NjA4Mjg5OTA0YTRlOGI0ZGMwZmYzY2E1YjIyZiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.O_VD2Uf2Z9IPxDESFaf4e7Y6vowThwqeGOvi6yuBQK4",
-    "created_at": "2026-07-08T11:44:58.226Z",
-    "expires_at": "2026-08-07T11:44:58Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 24,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "98e62df85ce648da8bc10314daadc884",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjEwMzg1NCwiaWF0IjoxNzgzNTExODU0LCJqdGkiOiI5OGU2MmRmODVjZTY0OGRhOGJjMTAzMTRkYWFkYzg4NCIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.r6zEjGyj--TuCTybnZMWcmO6ubOna_1S2_DqlOToduY",
-    "created_at": "2026-07-08T11:57:34.803Z",
-    "expires_at": "2026-08-07T11:57:34Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 25,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "27725a61a0a141da9d450e785b22893f",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjEwNDk0MywiaWF0IjoxNzgzNTEyOTQzLCJqdGkiOiIyNzcyNWE2MWEwYTE0MWRhOWQ0NTBlNzg1YjIyODkzZiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.UbeQmV-GbLg-Zslh-t_0yJmOaQg6EdU0Wrj3isysfj4",
-    "created_at": "2026-07-08T12:15:43.010Z",
-    "expires_at": "2026-08-07T12:15:43Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 26,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "56b07553cf9042d39aed7fac78ec4464",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjEwNDk3MiwiaWF0IjoxNzgzNTEyOTcyLCJqdGkiOiI1NmIwNzU1M2NmOTA0MmQzOWFlZDdmYWM3OGVjNDQ2NCIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.mb2RC3LdymV3yNzrXMQeuEn9GYa9zdRYYFRPoQ_p2RE",
-    "created_at": "2026-07-08T12:16:12.149Z",
-    "expires_at": "2026-08-07T12:16:12Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 27,
-  "fields": {
-    "user": "a63d225b-46e8-48f1-ad34-3327627c0c5f",
-    "jti": "c94d43ef57554083b223e0d7ef18d28a",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjEwNTM5NCwiaWF0IjoxNzgzNTEzMzk0LCJqdGkiOiJjOTRkNDNlZjU3NTU0MDgzYjIyM2UwZDdlZjE4ZDI4YSIsInVzZXJfaWQiOiJhNjNkMjI1Yi00NmU4LTQ4ZjEtYWQzNC0zMzI3NjI3YzBjNWYifQ.ojEM-JW5OYdSEQUmeZd1FSIAVV5zsHe5GMoOK2d77fs",
-    "created_at": "2026-07-08T12:23:14.114Z",
-    "expires_at": "2026-08-07T12:23:14Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 28,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "edcfb3cb82654abf8dd5b2822b7f18a3",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjI1MjIzMSwiaWF0IjoxNzgzNjYwMjMxLCJqdGkiOiJlZGNmYjNjYjgyNjU0YWJmOGRkNWIyODIyYjdmMThhMyIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.iI3HEGbkH4FMqeRsJADRiYl9ZNu70tLnewpQF6y9LVc",
-    "created_at": "2026-07-10T05:10:31.016Z",
-    "expires_at": "2026-08-09T05:10:31Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 29,
-  "fields": {
-    "user": "a63d225b-46e8-48f1-ad34-3327627c0c5f",
-    "jti": "e9a7fe7fbfdd4669be1a0d6f4425c847",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjI1MjQ3OSwiaWF0IjoxNzgzNjYwNDc5LCJqdGkiOiJlOWE3ZmU3ZmJmZGQ0NjY5YmUxYTBkNmY0NDI1Yzg0NyIsInVzZXJfaWQiOiJhNjNkMjI1Yi00NmU4LTQ4ZjEtYWQzNC0zMzI3NjI3YzBjNWYifQ.0kRrsl38oUZu36XpapkedDVskVrAP19qcC6DsyXsl-g",
-    "created_at": "2026-07-10T05:14:39.161Z",
-    "expires_at": "2026-08-09T05:14:39Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 30,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "a5a3ddd0b3ec446080fc910a7b059def",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjI1MjUwNiwiaWF0IjoxNzgzNjYwNTA2LCJqdGkiOiJhNWEzZGRkMGIzZWM0NDYwODBmYzkxMGE3YjA1OWRlZiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.B7HTbDzBujluDSKv_QoCImEneWEvT0ue5n7_aOGZxOQ",
-    "created_at": "2026-07-10T05:15:06.430Z",
-    "expires_at": "2026-08-09T05:15:06Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 31,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "c0d010c190f2477483f98dd843cac597",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjI1NTYwMCwiaWF0IjoxNzgzNjYzNjAwLCJqdGkiOiJjMGQwMTBjMTkwZjI0Nzc0ODNmOThkZDg0M2NhYzU5NyIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.YJ-to6lKVzDRkJT3Y_Gwn-3-V00RyEiaEVpSIcA3HZw",
-    "created_at": "2026-07-10T06:06:40.023Z",
-    "expires_at": "2026-08-09T06:06:40Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 32,
-  "fields": {
-    "user": "37420471-54d9-4195-bc6e-20db3a21585c",
-    "jti": "4bb7ebd8e9434da08f30c4720b1f0874",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjI1NTY3MywiaWF0IjoxNzgzNjYzNjczLCJqdGkiOiI0YmI3ZWJkOGU5NDM0ZGEwOGYzMGM0NzIwYjFmMDg3NCIsInVzZXJfaWQiOiIzNzQyMDQ3MS01NGQ5LTQxOTUtYmM2ZS0yMGRiM2EyMTU4NWMifQ.o7jlDqi9pTgeZ639y1yyDwU2fBgmnA7-ZaJrBL8wfQg",
-    "created_at": "2026-07-10T06:07:53.051Z",
-    "expires_at": "2026-08-09T06:07:53Z"
-  }
-},
-{
-  "model": "token_blacklist.outstandingtoken",
-  "pk": 33,
-  "fields": {
-    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
-    "jti": "b8a704b70bd6474db1c895209f6e5afb",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjI1NzkxNywiaWF0IjoxNzgzNjY1OTE3LCJqdGkiOiJiOGE3MDRiNzBiZDY0NzRkYjFjODk1MjA5ZjZlNWFmYiIsInVzZXJfaWQiOiI5ZWIxMmMyNi1kZjk3LTRlZmEtYmE0ZC0wMmU3MzI5MDIzYjUifQ.VF0fZ79cug2FbgXgsyi-TCJ4t1X9ldG6C0OQgBpD820",
-    "created_at": "2026-07-10T06:45:17.821Z",
-    "expires_at": "2026-08-09T06:45:17Z"
-  }
-},
+﻿[
 {
   "model": "accounts.user",
   "pk": "2a9a1082-20f5-431c-92bf-58aace8e1e13",
@@ -1169,6 +577,18 @@
 },
 {
   "model": "audit.auditlog",
+  "pk": "557dee68-b115-4f5e-8944-b475843e45d5",
+  "fields": {
+    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
+    "module": "Users",
+    "action": "UPDATE",
+    "description": "Updated user: aisu@gmail.com",
+    "ip_address": "127.0.0.1",
+    "created_at": "2026-07-10T06:57:08.306Z"
+  }
+},
+{
+  "model": "audit.auditlog",
   "pk": "5b93c4dd-9681-47b5-9cc6-57846e6c71b5",
   "fields": {
     "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
@@ -1177,6 +597,18 @@
     "description": "Updated permissions for Manager",
     "ip_address": "127.0.0.1",
     "created_at": "2026-07-10T05:13:19.402Z"
+  }
+},
+{
+  "model": "audit.auditlog",
+  "pk": "5bb66d9f-2297-479e-bfb8-ba7ad8041b72",
+  "fields": {
+    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
+    "module": "Users",
+    "action": "UPDATE",
+    "description": "Updated user: aisu@gmail.com",
+    "ip_address": "127.0.0.1",
+    "created_at": "2026-07-10T06:57:07.555Z"
   }
 },
 {
@@ -1349,6 +781,18 @@
 },
 {
   "model": "audit.auditlog",
+  "pk": "a3fe8d81-bb4a-4c29-a9d9-5ca3e16f083d",
+  "fields": {
+    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
+    "module": "Users",
+    "action": "UPDATE",
+    "description": "Updated user: aisu@gmail.com",
+    "ip_address": "127.0.0.1",
+    "created_at": "2026-07-10T06:57:08.302Z"
+  }
+},
+{
+  "model": "audit.auditlog",
   "pk": "b1275965-3c2b-4133-8eec-1c17f6371a8e",
   "fields": {
     "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
@@ -1429,6 +873,18 @@
     "description": "Updated user: aisu@gmail.com",
     "ip_address": "127.0.0.1",
     "created_at": "2026-07-08T07:02:26.469Z"
+  }
+},
+{
+  "model": "audit.auditlog",
+  "pk": "e9b7f15b-05d9-4a8e-a6b1-3177a48e49f7",
+  "fields": {
+    "user": "9eb12c26-df97-4efa-ba4d-02e7329023b5",
+    "module": "Users",
+    "action": "UPDATE",
+    "description": "Updated user: aisu@gmail.com",
+    "ip_address": "127.0.0.1",
+    "created_at": "2026-07-10T06:57:07.552Z"
   }
 }
 ]
